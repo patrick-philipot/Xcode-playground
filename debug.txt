@@ -1,0 +1,78 @@
+Date à convertir :  19590111
+_annéeBase :  1958
+_J1V :  19580923
+_annéeRévolutionnaire  167
+_nbJours  111
+_nbj  111
+p  3
+m  4
+j  21
+s  
+sRet  21 Nivôse
+_aRenvoyer  21 Nivôse de l'an CLXVII, jour de la Pierre à plâtre
+###################################################################
+Date à convertir :  19590519
+_annéeBase :  1958
+_J1V :  19580923
+_annéeRévolutionnaire  167
+_nbJours  239
+_nbj  239
+p  7
+m  8
+j  29
+s  
+sRet  29 Floréal
+_aRenvoyer  29 Floréal de l'an CLXVII, jour du Sénevé
+###################################################################
+Date à convertir :  19841217
+_annéeBase :  1984
+_J1V :  19840922
+_annéeRévolutionnaire  193
+_nbJours  87
+_nbj  87
+p  2
+m  3
+j  27
+s  
+sRet  27 Frimaire
+_aRenvoyer  27 Frimaire de l'an CXCIII, jour du Liège
+###################################################################
+Date à convertir :  19830305
+_annéeBase :  1982
+_J1V :  19820923
+_annéeRévolutionnaire  191
+_nbJours  164
+_nbj  164
+p  5
+m  6
+j  14
+s  
+sRet  14 Ventôse
+_aRenvoyer  14 Ventôse de l'an CXCI, jour du Vélar
+###################################################################
+Date à convertir :  20130826
+_annéeBase :  2012
+_J1V :  20120922
+_annéeRévolutionnaire  221
+_nbJours  339
+_nbj  339
+p  11
+m  12
+j  9
+s  
+sRet  9 Fructidor
+_aRenvoyer  9 Fructidor de l'an CCXXI, jour de la Réglisse
+###################################################################
+Date à convertir :  20130225
+_annéeBase :  2012
+_J1V :  20120922
+_annéeRévolutionnaire  221
+_nbJours  157
+_nbj  157
+p  5
+m  6
+j  7
+s  
+sRet  7 Ventôse
+_aRenvoyer  7 Ventôse de l'an CCXXI, jour de l'Alaterne
+###################################################################
